@@ -23,6 +23,10 @@ TACO 🌮 關於野生垃圾的open image dataset，環境從海灘到街景
 - TensorRT 6
 - trained with 100,000 steps
 
+### Classification 
+![111](https://github.com/weipo0116/PR_Garbage-Detection/assets/80244742/bb38082f-687a-4275-b6b3-4a124bc0556f)
+![222](https://github.com/weipo0116/PR_Garbage-Detection/assets/80244742/070e4f1b-0b51-4a98-a672-9062d6021227)
+
 ### Experiments
 - 辨別垃圾 (簡單分類是否為回收物）
 - Kaggle taco-trash-dataset
