@@ -37,7 +37,6 @@ TACO 🌮 關於野生垃圾的open image dataset，環境從海灘到街景
 ## 限制
 - Category Duplication（如圖二）
 - Lack of training data (Yellow will MOSTLY be recognized as Crisp packet)
-- 
 
 ## Reference
 - Training Data: [TACO Dataset](http://tacodataset.org/) 
