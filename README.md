@@ -23,8 +23,6 @@ TACO 🌮 關於野生垃圾的open image dataset，環境從海灘到街景
 - TensorRT 6
 - trained with 100,000 steps
 
-## 不可回收項目 (一般垃圾) 和 可回收項目 (資源回收) 的列表
-
 ## 實驗
 - 辨別垃圾 (簡單分類）
 - Kaggle taco-trash-dataset
@@ -32,21 +30,12 @@ TACO 🌮 關於野生垃圾的open image dataset，環境從海灘到街景
 
 ## 限制
 - Category Duplication
-- Yellow will be recognized as Crisp packet
+- Yellow will be recognized as Crisp packet (Lack of training data)
 - Can’t work on GPU
 
-## 預期成果
-自動垃圾辨識模型 （期望：智能垃圾分類桶）
-- 模型應用於垃圾分類桶
-- 方便市民進行回收分類
-- 有效提高垃圾處理效率
-
-## 參考資料
-- Taco Dataset http://tacodataset.org/
-- Cleanrobotics https://cleanrobotics.com/
-- Kaggle: TACO (Trash Annotations in Context) Trained Models https://www.kaggle.com/datasets/bouweceunen/trained-models-taco-trash-annotations-in-context/data
-- TrashBot 推 18 萬元 AI 垃圾桶，讓消費者「無腦」丟垃圾 https://technews.tw/2022/09/11/clean-robotics-trashbot/
-
 ## Reference
-- Training Data: [taco](http://tacodataset.org/) 
-- Model: https://www.kaggle.com/datasets/bouweceunen/trained-models-taco-trash-annotations-in-context/data
+- Training Data: [TACO Dataset](http://tacodataset.org/) 
+- Model: [TACO (Trash Annotations in Context) Trained Models](https://www.kaggle.com/datasets/bouweceunen/trained-models-taco-trash-annotations-in-context/data)
+- idea:
+  - [Cleanrobotics](https://cleanrobotics.com/)
+  - [TrashBot](https://technews.tw/2022/09/11/clean-robotics-trashbot/)
