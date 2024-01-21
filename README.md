@@ -29,9 +29,11 @@ TACO 🌮 關於野生垃圾的open image dataset，環境從海灘到街景
 - Our Images: photos from google
 
 **圖一：多個塑膠垃圾**
+
 <img width="709" alt="Xnip2024-01-21_17-59-48" src="https://github.com/weipo0116/PR_Garbage-Detection/assets/80244742/67d75f74-810c-4a31-a1d7-43df84014162">
 
 **圖二：麥香奶茶包裝**
+
 <img width="416" alt="Xnip2024-01-21_17-59-58" src="https://github.com/weipo0116/PR_Garbage-Detection/assets/80244742/df3fc793-c695-42ee-914f-87d3261ee729">
 
 ### Limitation
