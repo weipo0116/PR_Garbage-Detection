@@ -47,8 +47,6 @@ TACO 🌮 關於野生垃圾的open image dataset，環境從海灘到街景
 - Kaggle: TACO (Trash Annotations in Context) Trained Models https://www.kaggle.com/datasets/bouweceunen/trained-models-taco-trash-annotations-in-context/data
 - TrashBot 推 18 萬元 AI 垃圾桶，讓消費者「無腦」丟垃圾 https://technews.tw/2022/09/11/clean-robotics-trashbot/
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/3586891/d75a6cf8-eb25-43e7-9c8e-cabcb43309fd/PR_垃圾辨識.pptx.pdf
 ## Reference
 - Training Data: [taco](http://tacodataset.org/) 
 - Model: https://www.kaggle.com/datasets/bouweceunen/trained-models-taco-trash-annotations-in-context/data
